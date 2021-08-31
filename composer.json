@@ -1,0 +1,5 @@
+{
+    "require": {
+        "sch-group/pickpoint": "^3.9"
+    }
+}
